@@ -17,3 +17,12 @@ li:nth-child(2n){
 /* li:last-child {
   background-color: black;
 } */
+
+
+/* input:required { 
+  border:green 1px solid;
+}
+
+input:invalid{
+  border: red 1px solid;
+} */
