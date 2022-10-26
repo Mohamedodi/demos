@@ -1,0 +1,23 @@
+GET https://goudvis.xn--druw-epa.be/reservations/getReservation.php?code=rpJ6fAai
+Accept: application/json
+
+###
+POST https://goudvis.xn--druw-epa.be/reservations/insert.php
+Content-Type: application/json
+
+{"firstname":"matthias", "lastname":"Druwé", "datetime":"2022-10-27 19:15", "telephone":"12345","email":"matthias.druwe@gmail.com"}
+
+
+###
+GET https://goudvis.xn--druw-epa.be/reservations/getAvailableTimeSlots.php?fromDate=2022-10-25&toDate=2022-11-31
+Accept: application/json
+
+###
+POST https://goudvis.xn--druw-epa.be/reservations/getReservationsOnDate.php
+Accept: application/json
+username: webmaster@goudvis.be
+password: k@rp3r
+
+{
+"date":"2021-11-13"
+}
