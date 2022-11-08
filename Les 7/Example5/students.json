@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "firstname": "Gijs",
+      "lastname": "Catsberg"
+    },
+    {
+      "firstname": "Erwin",
+      "lastname": "De Dobbeleer"
+    },
+    {
+      "firstname": "Mounir",
+      "lastname": "Hamou"
+    },
+    {
+      "firstname": "Mykola",
+      "lastname": "Martynyuk"
+    },
+    {
+      "firstname": "Dylan",
+      "lastname": "Van Holsbeeck"
+    },
+    {
+      "firstname": "Pieter",
+      "lastname": "Vandereyken"
+    }
+  ]
+}

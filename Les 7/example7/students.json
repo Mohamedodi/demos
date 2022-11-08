@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "firstname": "Gijs",
+      "lastname": "Catsberg"
+    },
+    {
+      "id": 2,
+      "firstname": "Erwin",
+      "lastname": "De Dobbeleer"
+    },
+    {
+      "id": 3,
+      "firstname": "Mounir",
+      "lastname": "Hamou"
+    },
+    {
+      "id": 4,
+      "firstname": "Mykola",
+      "lastname": "Martynyuk"
+    },
+    {
+      "id": 5,
+      "firstname": "Dylan",
+      "lastname": "Van Holsbeeck"
+    },
+    {
+      "id": 6,
+      "firstname": "Pieter",
+      "lastname": "Vandereyken"
+    }
+  ]
+}
